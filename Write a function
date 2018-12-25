@@ -6,3 +6,10 @@ def is_leap(year):
                   
 
 year = int(input())
+
+
+#def is command that defines a function and the function is written beneath it.
+#return replies to the caller function giving it output and ends the function
+#the condition within return uses boolean output comparing TRUE or FALSE with == operator and combines the conditions with and/or operators.
+#this is basically rewriting the given statement in the problem in mathematical form.
+
